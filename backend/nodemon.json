@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_USERNAME": "shopapi",
+        "MONGO_PASSWORD": "shopapi"
+    }
+}
